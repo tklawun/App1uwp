@@ -10,7 +10,7 @@
 
     <Grid>
         <Border x:Name="Border" Margin="100" CompositeMode="Inherit" Background="LightBlue">
-            
-        </Border>  
+
+                </Border>  
     </Grid>
 </Page>
